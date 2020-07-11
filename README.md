@@ -1,0 +1,2 @@
+# Opengl_game
+根据learnopengl官方网站的最后例子做出的打砖块小游戏

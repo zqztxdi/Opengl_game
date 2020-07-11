@@ -1,0 +1,108 @@
+﻿  ball_object_collisions.cpp
+  game.cpp
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(85): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(86): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(87): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(88): warning C4244: “参数”: 从“double”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(262): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(269): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(275): warning C4244: “参数”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(284): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(286): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(288): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game.cpp(290): warning C4244: “参数”: 从“float”转换到“GLuint”，可能丢失数据
+  game_level.cpp
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\game_level.cpp(53): warning C4244: “初始化”: 从“GLuint”转换到“GLfloat”，可能丢失数据
+  game_object.cpp
+  main.cpp
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\main.cpp(60): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  particle_generator.cpp
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\particle_generator.cpp(26): warning C4244: “-=”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\particle_generator.cpp(108): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+  post_processor.cpp
+  power_up.cpp
+  resource_manager.cpp
+  shader.cpp
+  sprite_renderer.cpp
+  texture.cpp
+  text_renderer.cpp
+e:\vs2017\obj\consoleapplication1\consoleapplication1\src\text_renderer.cpp(82): warning C4838: 从“FT_Pos”转换到“GLuint”需要收缩转换
+  正在生成代码...
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+LINK : warning LNK4098: 默认库“MSVCRT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindBuffer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindBuffer
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindBuffer
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindBuffer
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewBufferData
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBufferData
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBufferData
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBufferData
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenBuffers
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenBuffers
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenBuffers
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenBuffers
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewEnableVertexAttribArray
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewEnableVertexAttribArray
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewEnableVertexAttribArray
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewEnableVertexAttribArray
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewVertexAttribPointer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewVertexAttribPointer
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewVertexAttribPointer
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewVertexAttribPointer
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindVertexArray
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindVertexArray
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindVertexArray
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindVertexArray
+particle_generator.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenVertexArrays
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenVertexArrays
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenVertexArrays
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenVertexArrays
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewActiveTexture
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewActiveTexture
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewActiveTexture
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetUniformLocation
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetUniformLocation
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1fv
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1iv
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform2fv
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindFramebuffer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBindRenderbuffer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewBlitFramebuffer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewCheckFramebufferStatus
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewFramebufferRenderbuffer
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewFramebufferTexture2D
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenFramebuffers
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewGenRenderbuffers
+post_processor.obj : warning LNK4049: 已导入本地定义的符号 ___glewRenderbufferStorageMultisample
+resource_manager.obj : warning LNK4049: 已导入本地定义的符号 ___glewDeleteProgram
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewAttachShader
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCompileShader
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCreateProgram
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewCreateShader
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewDeleteShader
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramInfoLog
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetProgramiv
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderInfoLog
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewGetShaderiv
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewLinkProgram
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewShaderSource
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1f
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform1i
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform2f
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform3f
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniform4f
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUniformMatrix4fv
+shader.obj : warning LNK4049: 已导入本地定义的符号 ___glewUseProgram
+sprite_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewDeleteVertexArrays
+text_renderer.obj : warning LNK4049: 已导入本地定义的符号 ___glewBufferSubData
+glew32s.lib(glew.obj) : warning LNK4099: 未找到 PDB“vc100.pdb”(使用“glew32s.lib(glew.obj)”或在“E:\VS2017\OBJ\ConsoleApplication1\Debug\vc100.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_DXT.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(image_DXT.obj)”或在“E:\VS2017\OBJ\ConsoleApplication1\Debug\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(image_helper.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(image_helper.obj)”或在“E:\VS2017\OBJ\ConsoleApplication1\Debug\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(SOIL.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(SOIL.obj)”或在“E:\VS2017\OBJ\ConsoleApplication1\Debug\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+SOIL.lib(stb_image_aug.obj) : warning LNK4099: 未找到 PDB“vc110.pdb”(使用“SOIL.lib(stb_image_aug.obj)”或在“E:\VS2017\OBJ\ConsoleApplication1\Debug\vc110.pdb”中寻找)；正在链接对象，如同没有调试信息一样
+  ConsoleApplication1.vcxproj -> E:\VS2017\OBJ\ConsoleApplication1\Debug\ConsoleApplication1.exe
